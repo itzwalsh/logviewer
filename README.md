@@ -1,1 +1,1 @@
-"# logviewer" 
+"Very simple Log file viewer"
